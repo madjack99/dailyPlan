@@ -45,3 +45,4 @@ export default compose(
         { collection: 'projects' }
     ])
 )(ProjectDetails)
+
